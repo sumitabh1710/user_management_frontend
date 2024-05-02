@@ -1,0 +1,18 @@
+.navbar_main_container {
+  width: 20%;
+}
+
+.navabr_container {
+  padding: 5% 10%;
+}
+
+.navbar_nav {
+  border-bottom: 1px solid #52ab98;
+  cursor: pointer;
+  transition: all 200ms linear;
+}
+
+.navbar_nav:hover {
+  background-color: #52ab98;
+  border-radius: 10px;
+}
